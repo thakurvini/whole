@@ -1,1 +1,2 @@
 This is third file created on git.
+This content is just for merging to remote server.
